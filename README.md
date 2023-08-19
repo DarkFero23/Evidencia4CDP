@@ -20,6 +20,7 @@ pero no bastaba para pasarlo de manera correcta, asi que para ejecutar el codigo
 
 Otro punto a resltar que estuve investigando es que a la hora de ejecutar el archivo lo hacia con "python3" , pero aveces me salio errores, pero buscando en internet encotnre este comando " spark-submit nombre_archvio.py", al utilizar el comando "spark-submit", estás enviando el archivo Python especificado, "nombre_archivo.py", al clúster de Spark para que se ejecute. Esto inicia la ejecución de la aplicación de Spark en el clúster distribuido. Con esto me ayudo a que no me diera errores.
 Se adjunta el codigo fuente , el dataset y lo necesario para ejecutar el archivo.
+Este recomendador esta en python.
 
 
 
